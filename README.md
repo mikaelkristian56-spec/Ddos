@@ -23,6 +23,7 @@ Pastikan komputer Anda sudah terpasang Python versi 3.7 ke atas.
    ```bash
    git clone https://github.com/mikaelkristian56/ddos.git
    cd ddos
+   python ddos.py 
 python ddos.py -s url -t turbo
 import asyncio
 import aiohttp
