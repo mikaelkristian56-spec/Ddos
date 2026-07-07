@@ -21,7 +21,7 @@ Pastikan komputer Anda sudah terpasang Python versi 3.7 ke atas.
 
 1. **Clone Repositori ini:**
    ```bash
-   git clone https://github.com/mikaelkristian56/ddos.git
+   git clone https://github.com/mikaelkristian56-spec/ddos.git
    cd ddos
    python ddos.py 
 python ddos.py -s url -t turbo
