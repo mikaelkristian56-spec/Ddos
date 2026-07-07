@@ -13,7 +13,7 @@ Dilengkapi dengan fitur **Dynamic User-Agent Spoofing**, alat ini mengacak ident
 * **Dynamic Bot Spoofing:** Mengacak puluhan *User-Agent* (Browser populer & Search Engine Crawler) secara otomatis pada setiap tembakan.
 * **Real-time Latency & Status Logging:** Menampilkan status kode HTTP dan waktu respon server secara langsung.
 
----
+--- 
 
 ## 🚀 Prasyarat & Instalasi
 
@@ -129,3 +129,4 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("\n[-] Keluar dari program.")
+#ddos, stress-testing python, asyncio, pentesting-tools,security
